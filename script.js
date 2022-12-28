@@ -18,5 +18,5 @@ function showClock() {
 }
 
 window.addEventListener('DOMContentLoaded', e => {
-    setInterval('showClock()', 10);
+    setInterval('showClock()', 1);
 })
